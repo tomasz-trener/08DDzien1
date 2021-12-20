@@ -1,0 +1,5 @@
+﻿
+
+Porpos o wczytanie dowolnego zdania np: Ala ma kota
+
+wyświetl najdłuższy wyraz 

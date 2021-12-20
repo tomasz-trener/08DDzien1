@@ -1,0 +1,27 @@
+﻿
+Wersja 1:
+
+poproś o wczytanie równania matematycznego np:  (w jednej linii)
+
+5+8
+lub 
+2*6
+lub 
+9/2 
+
+złożone z cyfr! (liczb jednocyfrowych)
+
+program ma wygenerować wynik:
+
+13
+12
+
+Wersja 2
+
+poproś o wczytanie równania matematycznego np:  (w jednej linii)
+
+15+8
+
+20*12
+
+tym razem zadziała na liczbach wielocyfrowych 
